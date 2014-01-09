@@ -9,4 +9,5 @@ Issei Naruta is a backend web developer in charge of site performance at Cookpad
 1984年、愛知県生まれ。2008年にヤフー株式会社に入社しメールサービスのバックエンド開発に従事。2010年、クックパッド株式会社にサービス開発エンジニアとして入社したものの、開発と運用の間を往復しているうちにインフラストラクチャー部の部長になり現在に至る。
 
 # 画像
+- https://github.com/mirakui/myprofile/tree/master/images
 - http://www.flickr.com/people/mirakui/photosof/
